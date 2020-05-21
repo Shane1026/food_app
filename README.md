@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-## The froject is uder process
+## The project is under process
